@@ -1,0 +1,15 @@
+{
+  "name": "nodejstraining",
+  "version": "1.0.0",
+  "description": "training class",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "through": "^2.3.8",
+    "yargs": "^3.31.0"
+  }
+}
